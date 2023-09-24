@@ -3,7 +3,7 @@ This repository contains a series of interactive notebooks focusing on data mini
 Contents
 Jupyter Notebooks: You will find a collection of Jupyter notebooks covering a wide range of topics in data mining, from data exploration and preprocessing to the application of advanced algorithms for regression, time series analysis, dimensionality reduction using PCA, and clustering techniques.
 
-Datasets: The notebooks include links to both public and private datasets used in the exercises. Specific datasets for the Master's program are available to enrolled students.
+Datasets: The notebooks include links to both public and private datasets used in the exercises. Specific datasets for the Master's program are available.
 
 Detailed Instructions: The notebook contains detailed instructions and explanatory comments to guide you through the exercises. Code examples are provided, and the logic behind each step is explained.
 
